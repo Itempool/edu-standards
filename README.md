@@ -1,2 +1,3 @@
 # edu-standards
-A simple CSVs for every set of education standards
+
+Simple lists of education standards
