@@ -17,8 +17,6 @@ The goal of this repository is to compile simple lists of standards from around 
     "ccss.math.k.cc.a.1",
     "ccss.math.k.cc.a.2",
     "ccss.math.k.cc.a.3",
-    ...
-    "ccss.math.hss.md.b.7"
   ]
 }
 ```
