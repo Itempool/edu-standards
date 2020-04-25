@@ -1,11 +1,11 @@
-# edu-standards
+# Educational standards
 
-In education, it is often useful to define learning goals. Sometimes teachers do this. Other times, large organizations, such as national departments of education, do it. When organizations define learning goals, those goals are often called **standards**.
+In education, it is often useful to define learning goals. Teachers do this all of the time, but so do organizations, such as governments. When large organizations do it, the goals are often called **standards** because they want service providers (e.g., teachers and schools) to align their services to those goals.
 
-For edtech product developers, these standards are important to consider. People want to know which content goes with which standards. But mapping content to standards is difficult for a few reasons:
+For edtech product developers, educational standards are important to consider. Consumers want to know which content goes with which standards. Unfortunately, mapping content to standards can be difficult because standards aren't standardized.
 
-1. Standards are scattered across the internet, often living on government websites.
-2. Standards aren't standardized. Naming conventions differ from one set of standards to the next.
+1. They are scattered across the internet, often living on government websites.
+2. Naming conventions differ from one set to another.
 
 The goal of this repository is to compile simple lists of standards from around the world. Each set of standards belongs in a separate JSON file that follows a common structure and common naming conventions. Here is how the US Common Core State Standars look:
 
@@ -20,6 +20,10 @@ The goal of this repository is to compile simple lists of standards from around 
   ]
 }
 ```
+
+## How will edtech developers use this data?
+
+The most common use case, we imagine, will be tagging content. For example, and question on itempool might be tagged `"ccss.math.k.cc.a.1"`, which would come from this repo. 
 
 ## How to contribute
 
