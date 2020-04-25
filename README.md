@@ -23,7 +23,7 @@ The goal of this repository is to compile simple lists of standards from around 
 
 ## How will edtech developers use this data?
 
-The most common use case will be tagging content. For example, and question on itempool might be tagged `"ccss.math.k.cc.a.1"`, which would come from this repo. 
+The most common use case will be tagging content. For example, a question on itempool might be tagged `"ccss.math.k.cc.a.1"`, which would come from this repo. 
 
 ## How to contribute
 
